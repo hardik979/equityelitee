@@ -70,7 +70,7 @@ export default function PricingPage() {
               </div>
 
               <a
-                href={`https://wa.me/919999999999?text=${encodeURIComponent(
+                href={`https://wa.me/+919685906784?text=${encodeURIComponent(
                   option.message
                 )}`}
                 target="_blank"
